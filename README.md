@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# SHOPPING-CART APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project includes:
+1. React
+2. React query
+3. Material UI
 
 ## Available Scripts
 
